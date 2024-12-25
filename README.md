@@ -1,2 +1,2 @@
 # DSA
-All dsa questions' of sigma batch 
+All DSA questions' of sigma batch 
